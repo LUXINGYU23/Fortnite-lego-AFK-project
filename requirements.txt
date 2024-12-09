@@ -1,0 +1,16 @@
+# 基础输入控制
+pynput==1.7.6
+pywin32==306
+
+# 系统交互
+keyboard==0.13.5
+mouse==0.7.1
+
+# 工具包
+numpy==1.26.3
+pythoncom==2.7
+pyautogui==0.9.54
+
+# 开发工具（可选）
+black==23.12.1
+pylint==3.0.3

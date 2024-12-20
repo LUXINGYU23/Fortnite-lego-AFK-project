@@ -44,7 +44,6 @@ pip install -r requirements.txt
 3. Clone or download this repository
 4. Run `mouse_keyboard_control.py` as administrator
 
-[Rest of the content remains unchanged...]
 
 ## <a name="chinese"></a>中文
 
